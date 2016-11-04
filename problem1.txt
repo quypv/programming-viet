@@ -1,0 +1,38 @@
+// --------------------------
+// Kiến thức
+// --------------------------
+
+Data Types, Print
+
+// --------------------------
+// Bài toán
+// --------------------------
+
+1. Tạo các biến sau:
+name      : chuỗi (string), tên có nghĩa
+age       : số nguyên (integer), độ tuổi
+birthday  : chuỗi (string), ngày sinh
+height    : số thực (float), chiều cao
+isMarried : giá trị đúng sai (boolen), đã kết hôn
+
+2. In ra ngoài màn hình theo cấu trúc sau, thay ... bằng các giá trị biến:
+Tên: ...,
+Tuổi: ...,
+Ngày sinh: ...,
+Chiều cao: ... cm,
+Đã kết hôn?: ...
+
+3. In ra màn hình với cấu trúc như trên, và thêm vào cuối 2 thông tin đếm chữ và đếm từ:
+Tên: ...,
+Tuổi: ...,
+Ngày sinh: ...,
+Chiều cao: ... cm,
+Đã kết hôn?: ...
+
+Letter count: ...
+Word count: ...
+
+4. In ra vị trí của text "Ngày sinh" trong đoạn văn bản trên.
+
+5. In ra vị trí của text "tuổi" trong đoạn văn bản trên.
+

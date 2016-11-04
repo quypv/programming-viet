@@ -1,0 +1,44 @@
+// --------------------------
+// Kiến thức
+// --------------------------
+
+Data Types, Print
+
+// --------------------------
+// Bài toán
+// --------------------------
+
+1. Tạo mảng "fruit" với các phần tử sau:
+cam, quyt, mit, dua
+
+Sau đó:
+- Dùng print_r() để debug mảng ra màn hình.
+- In ra độ dài của mảng
+
+2. Tạo mảng "fruitCount" với cấu trúc sau:
+cam : 10
+quyt: 22
+mit: 4
+dua: 9
+
+Sau đó:
+- Dùng print_r() để debug mảng ra màn hình.
+- In ra độ dài của mảng
+
+3. Dùng mảng "fruitCount" ở bài 2, chạy đoạn PHP sau:
+<?php
+echo $fruitCount['quyt'];
+?>
+
+4. Khai báo một mảng 2 chiều có cấu trúc sau:
+$students = [
+    'A1' => ['Nam', 'Hải', 'Tuấn'],
+    'A2' => ['Hiền', 'Dung', 'Tâm'],
+    'A3' => ['Phong', 'Ly', 'Cường']
+];
+
+Sau đó in ra: 
+- phần tử đầu tiên của khóa 'A1'
+- phần tử thứ ba của khóa 'A2'
+- phần tử thứ hai của khóa 'A2'
+
